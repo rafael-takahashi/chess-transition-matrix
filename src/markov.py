@@ -20,6 +20,6 @@ def build_transition_matrix(data: list[Result]) -> np.ndarray:
         transition_matrix = counts / row_sums
         transition_matrix[np.isnan(transition_matrix)] = 0
 
-    transition_matrix = np.floor(transition_matrix * 1000) / 1000
+    #transition_matrix = np.floor(transition_matrix * 1000) / 1000
 
     return transition_matrix
