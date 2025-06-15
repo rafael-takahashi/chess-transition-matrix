@@ -1,0 +1,917 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.18"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "MrGaurav547"]
+[Result "0-1"]
+[WhiteElo "603"]
+[BlackElo "666"]
+[TimeControl "300"]
+[EndTime "0:36:53 GMT+0000"]
+[Termination "MrGaurav547 won by resignation"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Bxd3 6. Qxd3 a6 7. O-O h6 8. b3 Ne7
+9. c4 Nf5 10. Ba3 Bxa3 11. Nxa3 O-O 12. Nc2 Re8 13. Rfe1 Nd7 14. h3 Ne7 15. a4
+Ng6 16. a5 Qc7 17. Ra4 Nf4 18. Qe3 Ng6 19. g3 Qd8 20. Nh2 Qe7 21. f4 b6 22. Qc3
+b5 23. cxb5 cxb5 24. Ra2 Rac8 25. Qd3 Nb8 26. Ne3 Nc6 27. Nf3 Nb4 28. Qd2 Nxa2
+29. Qxa2 Qb4 30. g4 Nxf4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.18"]
+[Round "-"]
+[White "2022shatranj"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "589"]
+[BlackElo "636"]
+[TimeControl "300"]
+[EndTime "0:40:05 GMT+0000"]
+[Termination "12312ASDASD12 won by checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nc6 4. Nc3 Bb4 5. a3 Ba5 6. b4 Bb6 7. Nd5 O-O 8. b5
+Nxd5 9. Bxd5 a6 10. bxc6 bxc6 11. Bc4 d5 12. exd5 cxd5 13. Bb3 Bg4 14. h3 e4 15.
+hxg4 exf3 16. Qxf3 Re8+ 17. Kf1 Qg5 18. d3 Qe7 19. Bxd5 Qe1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.18"]
+[Round "-"]
+[White "aalmustafawi"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "628"]
+[BlackElo "667"]
+[TimeControl "300"]
+[EndTime "0:47:16 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. d3 Bc5 5. Nc3 O-O 6. Na4 b6 7. Nxc5 bxc5 8.
+O-O Bb7 9. Bg5 h6 10. Bxf6 Qxf6 11. Bd5 Rab8 12. c4 Na5 13. Bxb7 Rxb7 14. a3
+Rxb2 15. Qa4 Nc6 16. Qd1 Nd4 17. Nxd4 exd4 18. Qc1 Rb3 19. Qc2 Rfb8 20. Rab1
+Rxb1 21. Rxb1 Rxb1+ 22. Qxb1 Qb6 23. Qd1 Qb2 24. h3 Qxa3 25. Qh5 Qc1+ 26. Kh2
+Qf4+ 27. g3 Qxf2+ 28. Kh1 Qxg3 29. Qxc5 Qxh3+ 30. Kg1 Qxd3 31. Qxc7 Qxe4 32.
+Qxd7 Qe1+ 33. Kg2 Qd2+ 34. Kg3 Qc3+ 35. Kf4 Qxc4 36. Kf5 Qe6+ 37. Qxe6 fxe6+ 38.
+Kxe6 d3 39. Ke5 d2 40. Ke4 d1=Q 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.19"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "nabilakhatun"]
+[Result "0-1"]
+[WhiteElo "638"]
+[BlackElo "661"]
+[TimeControl "300"]
+[EndTime "14:53:38 GMT+0000"]
+[Termination "nabilakhatun won on time"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qc6 5. Nf3 g5 6. O-O g4 7. Nd4 Qg6 8.
+g3 e5 9. Nb3 c6 10. d4 e4 11. Bf4 Nd7 12. Re1 f5 13. Bc4 Ngf6 14. d5 b5 15. dxc6
+bxc4 16. cxd7+ Bxd7 17. Nd4 Bc5 18. b3 cxb3 19. axb3 Qg7 20. Ra5 Bb6 21. Ra2 a6
+0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "TDizzy94"]
+[Result "0-1"]
+[WhiteElo "611"]
+[BlackElo "633"]
+[TimeControl "300"]
+[EndTime "0:21:47 GMT+0000"]
+[Termination "TDizzy94 won by resignation"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Bd7 5. Nf3 h6 6. O-O Nf6 7. d4 c6 8.
+Bf4 Nd5 9. Bg3 Nxc3 10. bxc3 f5 11. Re1 Qf6 12. Bc4 f4 13. Bxf4 Qxf4 14. Ne5 e6
+15. Qh5+ Kd8 16. Nxd7 Kxd7 17. Bxe6+ Kc7 18. Qh4 Qxh4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "Dgoboss"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "609"]
+[BlackElo "636"]
+[TimeControl "300"]
+[EndTime "0:27:22 GMT+0000"]
+[Termination "12312ASDASD12 won by checkmate"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Bc5 4. Bc4 Nc6 5. d4 Bb4+ 6. c3 Ba5 7. Ng5 Qxg5 8.
+O-O d6 9. Bxf7+ Ke7 10. Bd5 Bh3 11. e5 Rf8 12. Bxc6 bxc6 13. c4 Qxg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "mafra99"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "622"]
+[BlackElo "612"]
+[TimeControl "300"]
+[EndTime "0:36:49 GMT+0000"]
+[Termination "mafra99 won on time"]
+
+1. d4 d5 2. Nf3 Nf6 3. Nc3 Bf5 4. Bf4 e6 5. e3 Bb4 6. Bd3 Bg4 7. h3 Bh5 8. Be2
+Ne4 9. Qd3 Bg6 10. O-O Ng3 11. Qb5+ c6 12. Qxb4 Nxf1 13. Qxb7 Nd7 14. Qxc6 Bxc2
+15. Kxf1 O-O 16. Nb5 Rc8 17. Qa6 Ra8 18. Rc1 Be4 19. Ne5 Nxe5 20. Bxe5 Qg5 21.
+g3 f6 22. Bf4 Qg6 23. Qxe6+ Kh8 24. Qg4 h6 25. Qxg6 Bxg6 26. Rc5 Be4 27. Nc7
+Rfb8 28. b3 Rb7 29. Nxd5 Rb4 30. Nxb4 Rd8 31. Bd3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "jgijon"]
+[Result "1-0"]
+[WhiteElo "635"]
+[BlackElo "621"]
+[TimeControl "300"]
+[EndTime "0:39:51 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 Nxe4 6. dxe5 f6 7. O-O fxe5 8.
+Bxc6 dxc6 9. Qxd8+ Kxd8 10. Nxe5 Bd6 11. Nf7+ Kd7 12. Nxh8 Kd8 13. Nf7+ Ke7 14.
+Nxd6 cxd6 15. Bf4 Bf5 16. f3 Nc5 17. c3 Bd3 18. Re1+ Kf6 19. Nd2 Rf8 20. Ne4+
+Kg6 21. Bxd6 Re8 22. Bxc5 Bb5 23. b3 b6 24. Bxb6 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "strikersamuel"]
+[Result "1-0"]
+[WhiteElo "657"]
+[BlackElo "650"]
+[TimeControl "300"]
+[EndTime "0:45:36 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 c6 2. Nf3 d5 3. e5 e6 4. d4 c5 5. c3 cxd4 6. cxd4 Nc6 7. Bb5 Bd7 8. O-O a6
+9. Ba4 b5 10. Bb3 Bb4 11. a3 Ba5 12. a4 Bb6 13. Be3 f6 14. Qd3 fxe5 15. dxe5
+Bxe3 16. Qxe3 Nb4 17. Nbd2 bxa4 18. Bxa4 Bxa4 19. Rxa4 Nc2 20. Qc3 Rc8 21. Qd3
+a5 22. Rc1 Rc4 23. Rxc4 dxc4 24. Qxd8+ Kxd8 25. Rxc2 Ne7 26. Nxc4 a4 27. Nb6 Rf8
+28. Nxa4 Rf4 29. Nc5 Kc7 30. Nxe6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "tone911"]
+[Result "1-0"]
+[WhiteElo "676"]
+[BlackElo "641"]
+[TimeControl "300"]
+[EndTime "0:50:39 GMT+0000"]
+[Termination "12312ASDASD12 won - game abandoned"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nxe5 d5 5. Bb3 Bc5 6. d4 Bb6 7. O-O O-O 8.
+Bf4 c5 9. dxc5 Bxc5 10. Qxd5 Qxd5 11. Bxd5 Nf6 12. Nc3 Re8 13. Rfe1 Nbd7 14.
+Bxf7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "drewrobinson36"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "653"]
+[BlackElo "656"]
+[TimeControl "300"]
+[EndTime "1:33:53 GMT+0000"]
+[Termination "drewrobinson36 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. a3 Ba5 5. b4 Bb6 6. Nd5 d6 7. Bb5 Be6 8. Nxb6
+axb6 9. d4 Nf6 10. dxe5 dxe5 11. Qxd8+ Rxd8 12. Nxe5 Rd1+ 13. Kxd1 Bc4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "Rrj0"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "643"]
+[BlackElo "673"]
+[TimeControl "300"]
+[EndTime "1:59:09 GMT+0000"]
+[Termination "12312ASDASD12 won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 g6 4. d4 Bg7 5. Na3 d5 6. exd5 Qxd5 7. Bc4 Qd6 8. O-O
+Bg4 9. h3 Bf5 10. Nh4 Be4 11. Re1 Nf6 12. Bg5 O-O 13. Bxf6 Bxf6 14. Rxe4 a6 15.
+Qf3 Rad8 16. Rd1 Qe7 17. d5 Na5 18. d6 cxd6 19. Bxf7+ Rxf7 20. Nxg6 hxg6 21. Qg4
+Kg7 22. f4 exf4 23. Rxe7 Rxe7 24. Qxf4 Nc6 25. Nc4 Be5 26. Qg5 Bf6 27. Qd2 d5
+28. Nb6 Na5 29. Rf1 Re5 30. Qf4 Rf5 31. Qg4 Rxf1+ 32. Kxf1 Rf8 33. Qe6 Bxc3+ 34.
+Kg1 Bd4+ 35. Kh1 Nc4 36. Nd7 Be5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "erwhhq"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "659"]
+[BlackElo "689"]
+[TimeControl "300"]
+[EndTime "2:03:49 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Ng5 Qxg5 5. d4 Qxg2 6. Rf1 Bxd4 7. c3 Qxe4+ 8.
+Be2 Bb6 9. Nd2 Qg6 10. Nf3 d6 11. Qd5 Be6 12. Qd3 Qxd3 13. Bxd3 Nf6 14. Bg5 e4
+15. Bxf6 exd3 16. Bxg7 Rg8 17. Bf6 Rg6 18. Bh4 f6 19. O-O-O O-O-O 20. Rxd3 Bc4
+21. Rxd6 Rxd6 22. Ne5 Bxf1 23. Nxg6 hxg6 24. Bxf6 Rxf6 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "jhinton69"]
+[Result "1-0"]
+[WhiteElo "704"]
+[BlackElo "660"]
+[TimeControl "300"]
+[EndTime "2:10:45 GMT+0000"]
+[Termination "12312ASDASD12 won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bb4+ 5. c3 Bc5 6. Bg5 Be7 7. O-O O-O 8.
+Nbd2 d6 9. d4 exd4 10. Nxd4 Nxd4 11. cxd4 c5 12. d5 a6 13. Qf3 b5 14. Be2 c4 15.
+a4 b4 16. Bxc4 Qc7 17. b3 a5 18. Rac1 Qd7 19. Bb5 Qd8 20. Rfe1 Bg4 21. Qg3 Bh5
+22. h3 Bg6 23. e5 Nh5 24. Bxe7 Qxe7 25. exd6 Qxd6 26. Qxd6 Rad8 27. Qc5 Nf4 28.
+Bc6 Nd3 29. Qxa5 Nxc1 30. Rxc1 Bd3 31. Qxb4 Bf5 32. Qd4 Rb8 33. b4 Rbc8 34. b5
+Rcd8 35. a5 g6 36. Nf3 Bd7 37. Ne5 Bxc6 38. Nxc6 Rd6 39. Ne7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "ryanjohnbrian"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "746"]
+[BlackElo "690"]
+[TimeControl "300"]
+[EndTime "2:12:23 GMT+0000"]
+[Termination "ryanjohnbrian won by checkmate"]
+
+1. g3 e6 2. Bg2 d6 3. d4 c6 4. Nc3 b6 5. Nf3 a6 6. Bg5 f6 7. Bd2 g6 8. e4 h6 9.
+O-O Ke7 10. Nh4 Qd7 11. Nxg6+ Kf7 12. Nxh8+ Kg7 13. Qg4+ Kh7 14. Ng6 Kg7 15.
+Ne5+ Kh7 16. Nxd7 Kh8 17. Nxf8 Ne7 18. Bxh6 Ng6 19. Qxg6 Bd7 20. Qg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.23"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "Davidbjolo"]
+[Result "0-1"]
+[WhiteElo "675"]
+[BlackElo "696"]
+[TimeControl "300"]
+[EndTime "2:14:48 GMT+0000"]
+[Termination "Davidbjolo won by checkmate"]
+
+1. e3 d5 2. Ke2 Bg4+ 3. Ke1 Bxd1 4. d3 Bh5 5. Kd2 e6 6. Ke1 c6 7. Kd2 Nd7 8. Ke1
+Bb4+ 9. Bd2 Bc5 10. Bc1 d4 11. Kd2 dxe3+ 12. Ke1 Qf6 13. Be2 Qxf2+ 14. Kd1 Bb4
+15. Bd2 Bxd2 16. c3 Qe1+ 17. Kc2 Qc1+ 18. Kb3 Nc5+ 19. Kc4 Qe1 20. Kd4 Qf2 21.
+Ke5 f6+ 22. Kd6 Rd8+ 23. Kc7 Qf4# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.24"]
+[Round "-"]
+[White "Brycecyxe"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "1182"]
+[BlackElo "1066"]
+[TimeControl "1800"]
+[EndTime "20:03:08 GMT+0000"]
+[Termination "Brycecyxe won by resignation"]
+
+1. e4 e5 2. h3 Nc6 3. c3 d6 4. Bb5 g6 5. Qf3 Qf6 6. Bxc6+ bxc6 7. d3 Bg7 8. Qxf6
+Nxf6 9. Nf3 O-O 10. O-O Ba6 11. Rd1 Rfe8 12. Bg5 h6 13. Bxf6 Bxf6 14. a4 c5 15.
+c4 Rab8 16. Ra2 Bb7 17. Nc3 c6 18. Rb1 Rbd8 19. b4 d5 20. bxc5 Ba8 21. cxd5 cxd5
+22. exd5 e4 23. Nxe4 Bg7 24. c6 Rxd5 25. c7 Rxd3 26. Rb8 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.24"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "Ghost_snow"]
+[Result "1-0"]
+[WhiteElo "1075"]
+[BlackElo "1084"]
+[TimeControl "1800"]
+[EndTime "20:18:21 GMT+0000"]
+[Termination "12312ASDASD12 won - game abandoned"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 d6 7. O-O Qf6 8.
+Qe3 Ne7 9. Nc3 c6 10. Re1 Be6 11. e5 dxe5 12. Bxe6 Qxe6 13. Qxe5 Qxe5 14. Rxe5
+O-O-O 15. Be3 Ng6 16. Re4 Bd6 17. Bxa7 Rhe8 18. Bb6 Bc7 19. Bxc7 Kxc7 20. Rae1
+Kd7 21. Na4 Rxe4 22. Rxe4 f6 23. Rd4+ Kc7 24. Rxd8 Kxd8 25. g3 Ne5 26. b3 Nf3+
+27. Kg2 Nd4 28. c3 Nb5 29. c4 Nd4 30. Nc3 Kc7 31. Kh3 g5 32. Kg4 Nc2 33. Kf5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.24"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "Kennybishh1"]
+[Result "0-1"]
+[WhiteElo "662"]
+[BlackElo "701"]
+[TimeControl "300"]
+[EndTime "20:50:44 GMT+0000"]
+[Termination "Kennybishh1 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 d6 4. d4 Bg4 5. h3 Bxf3 6. Qxf3 Nf6 7. d5 Nd4 8. Qe3
+Nxc2+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.24"]
+[Round "-"]
+[White "DaceFPS"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "632"]
+[BlackElo "675"]
+[TimeControl "300"]
+[EndTime "21:00:38 GMT+0000"]
+[Termination "12312ASDASD12 won on time"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Bxc6 bxc6 5. O-O d5 6. d3 Qd6 7. b3 a5 8. a4
+Nf6 9. Bb2 d4 10. Qd2 Bb4 11. Qg5 h6 12. Qxe5+ Qxe5 13. Nxe5 c5 14. Ba3 O-O 15.
+Bxb4 axb4 16. f4 Ra6 17. a5 Ng4 18. Nxg4 Bxg4 19. h3 Bd7 20. f5 Re8 21. Nd2 g6
+22. Rf3 Rf6 23. Rg3 Kh7 24. fxg6+ fxg6 25. a6 Ref8 26. a7 Bc6 27. Nc4 Ra8 28.
+Ne5 Be8 29. Ng4 Re6 30. Nf2 Bb5 31. Ra5 Rb6 32. Ng4 c6 33. Ne5 Ra6 34. Rxa6 Bxa6
+35. Rxg6 Rxa7 36. Rxc6 Bb7 37. Rxc5 Ra2 38. Nf3 Kg6 39. Kh2 Kf6 40. g4 Ke6 41.
+Nxd4+ Kd6 42. Rc4 Ke5 43. Kg3 Ba6 44. Rxb4 Ra1 45. Nc6+ Kd6 46. Nd4 Ke5 47. h4
+Rg1+ 48. Kf3 Rf1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.24"]
+[Round "-"]
+[White "Javichomiranda"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "690"]
+[BlackElo "689"]
+[TimeControl "300"]
+[EndTime "21:09:19 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. Ng5 d5 6. Bxd5 Be6 7. Nxe6 fxe6 8.
+Bxe6 Qf6 9. Bf5 g6 10. Bg4 Nge7 11. O-O O-O 12. Bh6 Rf7 13. Nd2 d3 14. c3 Bxf2+
+15. Kh1 g5 16. Bf3 Be3 17. Nc4 Bc5 18. Qxd3 Qxh6 19. e5 Nxe5 20. Nxe5 Bd6 21. h3
+Bxe5 22. Bd5 Nxd5 23. Qxd5 Bf6 24. Rf3 Rd8 25. Qxb7 Qh4 26. Qxc7 Rxc7 27. Rxf6
+Rcd7 28. Raf1 Rd1 29. Rxd1 Rxd1+ 30. Kh2 Qe4 31. Rf3 Rd2 32. b4 Qxf3 33. Kh1 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.24"]
+[Round "-"]
+[White "JxCap"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "673"]
+[BlackElo "676"]
+[TimeControl "300"]
+[EndTime "21:23:42 GMT+0000"]
+[Termination "JxCap won by checkmate"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bb5 Nf6 4. Bxc6 bxc6 5. Nf3 d6 6. d4 Bg4 7. h3 Bh5 8. Bg5
+Be7 9. Bxf6 Bxf6 10. d5 Qd7 11. g4 Bg6 12. Nh4 Bxh4 13. Qf3 O-O 14. O-O-O Rab8
+15. Rhg1 Rb4 16. g5 h6 17. gxh6 gxh6 18. Qh5 Qxh3 19. Rxg6+ fxg6 20. Qxg6+ Kh8
+21. Rg1 Bg5+ 22. Kb1 Rg8 23. Qf5 Qh2 24. Rd1 Qf4 25. Qd7 cxd5 26. Nxd5 Rxb2+ 27.
+Kxb2 Qxf2 28. Ne7 Bc1+ 29. Kxc1 Qxc2+ 30. Kxc2 Rg2+ 31. Rd2 Rg7 32. Qe8+ Kh7 33.
+Rf2 a6 34. Rf8 h5 35. Rh8# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "Zezzatony"]
+[Result "0-1"]
+[WhiteElo "1066"]
+[BlackElo "1061"]
+[TimeControl "1800"]
+[EndTime "4:14:33 GMT+0000"]
+[Termination "Zezzatony won - game abandoned"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O Be7 5. d3 Bf6 6. c3 Nge7 7. Be3 b6 8. Qc2
+O-O 9. d4 d5 10. e5 Bxe5 11. Bxd5 cxd4 12. Nxe5 Qxd5 13. Nxc6 Nxc6 14. Bxd4 Nxd4
+15. cxd4 Qxd4 16. Nc3 Ba6 17. Rfd1 Qg4 18. Re1 Bb7 19. g3 Qh3 20. Ne4 f5 21. Qc4
+fxe4 22. Rad1 e3 23. f3 Bxf3 24. Rxe3 Bxd1 25. Rxe6 Rac8 26. Rh6+ Kh8 27. Rxh3
+Rxc4 28. Rxh7+ Kxh7 29. b4 Be2 30. a4 Rxb4 31. a5 bxa5 32. g4 Bxg4 33. h3 Bxh3
+34. Kh2 Be6 35. Kg3 Rb3+ 36. Kh4 Rf5 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "Zwalenty"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "1065"]
+[BlackElo "1074"]
+[TimeControl "1800"]
+[EndTime "16:50:12 GMT+0000"]
+[Termination "12312ASDASD12 won - game abandoned"]
+
+1. d4 d5 2. Nf3 Nf6 3. Ne5 Bf5 4. Nc3 e6 5. h3 Bb4 6. Bd2 a6 7. g4 Bg6 8. Nxg6
+hxg6 9. Bg2 Qd6 10. a3 Ba5 11. b4 Bb6 12. e3 Nbd7 13. Na4 Ba7 14. Rc1 b5 15. Nc5
+c6 16. Nd3 Bb6 17. Nc5 Ra7 18. Qe2 Qc7 19. Qf3 a5 20. c3 axb4 21. axb4 Ra2 22.
+Nb3 Qa7 23. O-O Ke7 24. Ra1 Ra8 25. Rxa2 Qxa2 26. Ra1 Qxb3 27. Rxa8 Qb1+ 28. Kh2
+Bc7+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "likeahha"]
+[Result "1-0"]
+[WhiteElo "688"]
+[BlackElo "659"]
+[TimeControl "300"]
+[EndTime "18:17:46 GMT+0000"]
+[Termination "12312ASDASD12 won - game abandoned"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nc6 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Qf6 7. Qxf6 Nxf6
+8. O-O Nxe4 9. Re1 Bf5 10. f3 d5 11. Bxd5 c6 12. Bxe4 Bxe4 13. Rxe4+ Be7 14. Bf4
+Rd8 15. Nc3 f5 16. Re5 Kf7 17. Rxf5+ Ke6 18. Re5+ Kd6 19. Rg5+ Ke6 20. Rxg7 Bf6
+21. Rxb7 Bxc3 22. bxc3 Rd2 23. Bxd2 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "Carluigi"]
+[Result "1-0"]
+[WhiteElo "700"]
+[BlackElo "690"]
+[TimeControl "300"]
+[EndTime "18:22:55 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Nf6 4. d3 Bg4 5. Bg5 Be7 6. O-O h6 7. Be3 O-O 8. h3
+Bh5 9. Nbd2 Nc6 10. c3 Na5 11. Qa4 Nxc4 12. Qxc4 Qd7 13. Rfe1 b5 14. Qb3 c5 15.
+c4 a6 16. a4 bxc4 17. Qxc4 Bxf3 18. Nxf3 Qc6 19. b4 a5 20. bxc5 Qxc5 21. Bxc5
+dxc5 22. Nxe5 Rfc8 23. Qxf7+ Kh8 24. Qxe7 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "vasko967"]
+[Result "1/2-1/2"]
+[WhiteElo "701"]
+[BlackElo "718"]
+[TimeControl "300"]
+[EndTime "18:26:28 GMT+0000"]
+[Termination "Game drawn by repetition"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Qg6 5. g3 Bd7 6. Nf3 Bc6 7. O-O Qf5 8.
+d4 Bxf3 9. Bxf3 Nc6 10. d5 Ne5 11. Bf4 Nxf3+ 12. Qxf3 Qxc2 13. d6 exd6 14. Qxb7
+Rd8 15. Qc6+ Rd7 16. Rfe1+ Ne7 17. Bxd6 cxd6 18. Qc8+ Rd8 19. Qc6+ Rd7 20. Qc8+
+Rd8 21. Qc6+ Rd7 1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "Krishnapungaonkar"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "684"]
+[BlackElo "712"]
+[TimeControl "300"]
+[EndTime "18:37:36 GMT+0000"]
+[Termination "12312ASDASD12 won on time"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Nc6 4. Nf3 Bg4 5. Nbd2 e5 6. h3 Bxf3 7. Nxf3 exf4 8.
+exf4 Qd7 9. a4 Bb4+ 10. c3 Bd6 11. Ne5 Qf5 12. Bd3 Qc8 13. Qe2 O-O 14. O-O Re8
+15. Qc2 g6 16. f5 Bxe5 17. fxg6 hxg6 18. dxe5 Nxe5 19. Be2 Qf5 20. Qb3 b6 21. f4
+Nc6 22. Bb5 Re6 23. Rae1 Rxe1 24. Rxe1 Na5 25. Qb4 c6 26. Bf1 Re8 27. Rxe8+ Nxe8
+28. Qe7 Nf6 29. Qd8+ Kg7 30. g4 Nc4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "youcefaitkaci"]
+[Result "0-1"]
+[WhiteElo "702"]
+[BlackElo "730"]
+[TimeControl "300"]
+[EndTime "18:48:47 GMT+0000"]
+[Termination "youcefaitkaci won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nd4 4. O-O d5 5. Bxd5 Bg4 6. d3 Nxf3+ 7. gxf3 Bh3 8.
+Re1 Qf6 9. f4 Qg6+ 10. Kh1 Qg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "olonais"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "691"]
+[BlackElo "691"]
+[TimeControl "300"]
+[EndTime "18:49:41 GMT+0000"]
+[Termination "olonais won by checkmate"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Bb4+ 4. c3 Nxe5 5. Nxe5 Qg5 6. Bxg5 Bxc3+ 7. Nxc3 c6
+8. e4 d5 9. exd5 Nf6 10. dxc6 Bg4 11. f3 Bd7 12. Bxf6 gxf6 13. Qxd7+ Kf8 14.
+Qxf7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.25"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "mendibardugo"]
+[Result "1-0"]
+[WhiteElo "701"]
+[BlackElo "674"]
+[TimeControl "300"]
+[EndTime "18:54:20 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Be2 Nc6 5. Nf3 Qg6 6. O-O Bf5 7. d3 Nb4 8.
+Bf4 Nxd3 9. Bxd3 Bxd3 10. Qxd3 Qxd3 11. cxd3 O-O-O 12. Rfe1 Rxd3 13. Nb5 Kd7 14.
+Rad1 Rxd1 15. Rxd1+ Kc6 16. Nxa7+ Kc5 17. Bxc7 e5 18. Nxe5 Nf6 19. Nxf7 Rg8 20.
+b4+ Kc4 21. Ne5+ Kxb4 22. a3+ Kxa3 23. Nb5+ Kb3 24. Rd4 Kc2 25. Kf1 Bc5 26. Rc4+
+Kb3 27. Rxc5 Rd8 28. Bxd8 Ne4 29. Rd5 Kc2 30. Rd3 Nd2+ 31. Ke1 Nb3 32. Nd4+ Nxd4
+33. Rxd4 Kc1 34. Rd2 b5 35. Bg5 b4 36. Ra2+ Kb1 37. Rd2 b3 38. Nc4 h5 39. Kd1 h4
+40. h3 g6 41. Ke2 Kc1 42. Kd3 Kb1 43. Kc3 Kc1 44. Nb2 Kb1 45. Kxb3 Kc1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.26"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "SebbyGuy"]
+[Result "1-0"]
+[WhiteElo "711"]
+[BlackElo "680"]
+[TimeControl "300"]
+[EndTime "22:10:03 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e6 2. Nf3 d6 3. Bc4 c6 4. d4 b6 5. O-O a5 6. a3 b5 7. Ba2 a4 8. Bf4 Nd7 9.
+Qd3 e5 10. dxe5 dxe5 11. Nxe5 Nxe5 12. Qxd8+ Kxd8 13. Bxe5 f6 14. Bc3 Bd6 15.
+Re1 Ne7 16. Nd2 Re8 17. h3 c5 18. Rad1 Nc6 19. b4 c4 20. Nxc4 bxc4 21. Rxd6+ Kc7
+22. Rd5 Bb7 23. Rc5 Kb6 24. Bxc4 Ra5 25. Rxc6+ Bxc6 26. bxa5+ Ka7 27. f3 Rc8 28.
+Bd3 Bd7 29. Bb4 g5 30. Kf2 h5 31. g4 hxg4 32. hxg4 Rh8 33. Kg2 Rc8 34. Be7 Rc3
+35. Rb1 Rxa3 36. Bxa3 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.26"]
+[Round "-"]
+[White "Nomad174"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "692"]
+[BlackElo "720"]
+[TimeControl "300"]
+[EndTime "22:19:11 GMT+0000"]
+[Termination "12312ASDASD12 won by checkmate"]
+
+1. e4 e5 2. h3 Nc6 3. c3 Bc5 4. d3 Nf6 5. a3 d5 6. Nd2 b6 7. b4 Be7 8. Ngf3 O-O
+9. g4 Qd6 10. Rg1 h6 11. Be2 Be6 12. Nh2 a6 13. h4 dxe4 14. dxe4 Nd7 15. g5 hxg5
+16. hxg5 Bh3 17. Bb2 Rad8 18. Bg4 Bxg4 19. Rxg4 f6 20. gxf6 Qxf6 21. Ndf3 Ndb8
+22. Qe2 a5 23. b5 Na7 24. a4 c6 25. Qf1 cxb5 26. axb5 Nd7 27. Qg2 Nc5 28. Rg6
+Nd3+ 29. Kf1 Qf4 30. Qg4 Qxg4 31. Rxg4 Nxb2 32. Ke2 Nxb5 33. Rag1 Bf6 34. Rg6
+Nxc3+ 35. Kf1 Rd1+ 36. Kg2 Rxg1+ 37. Kxg1 Nxe4 38. Ng4 Nd3 39. Nxf6+ Rxf6 40.
+Rg4 Nexf2 41. Rc4 Rxf3 42. Rc8+ Kf7 43. Rc7+ Ke6 44. Rxg7 Kf5 45. Rf7+ Ke4 46.
+Rb7 b5 47. Rxb5 a4 48. Ra5 Nb2 49. Rb5 Nfd3 50. Kg2 Ke3 51. Rxe5+ Nxe5 52. Kg1
+a3 53. Kg2 a2 54. Kh2 Ke2 55. Kg2 Rf2+ 56. Kg3 a1=Q 57. Kh4 Qg1 58. Kh5 Rh2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "viyansaxena"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "1016"]
+[BlackElo "1081"]
+[TimeControl "1800"]
+[EndTime "19:37:16 GMT+0000"]
+[Termination "12312ASDASD12 won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. Nc3 a6 6. Nd5 d6 7. h3 Be6 8. Bd2 Qd7
+9. Bc3 Nge7 10. Nxe7 Nxe7 11. Nd2 f6 12. Qf3 d5 13. exd5 Bxd5 14. Bxd5 Nxd5 15.
+Ne4 Be7 16. a3 O-O-O 17. Qg3 Rhg8 18. Qf3 Qb5 19. O-O g5 20. Ng3 Bc5 21. Nf5 Rg6
+22. Qg4 Qd7 23. Rad1 h5 24. Qf3 Nf4 25. Ne3 g4 26. hxg4 Bxe3 27. fxe3 hxg4 28.
+Qf2 g3 29. Qf3 Qh7 30. Rfe1 Qh2+ 31. Kf1 Qh1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "Sheikhsamil"]
+[Result "1-0"]
+[WhiteElo "1088"]
+[BlackElo "1041"]
+[TimeControl "1800"]
+[EndTime "0:09:32 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Qe7 4. d4 Nxe4 5. Bd3 Nd6 6. O-O f6 7. Re1 Qd8 8.
+Nc6+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "Regina_gulosa"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "1134"]
+[BlackElo "1081"]
+[TimeControl "1800"]
+[EndTime "0:44:52 GMT+0000"]
+[Termination "Regina_gulosa won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. d4 a6 5. Bxc6+ bxc6 6. dxe5 g6 7. Bg5 Ne7 8.
+O-O Bg7 9. Nc3 Bg4 10. exd6 Qxd6 11. h3 Qxd1 12. Raxd1 Bxf3 13. gxf3 f6 14. Bf4
+Ra7 15. Rd3 O-O 16. Rd7 Nc8 17. Rfd1 Rb7 18. Rd8 Rxb2 19. Rxf8+ Bxf8 20. Rd8 Nd6
+21. Bh6 Kf7 22. Bxf8 Ke6 23. Bxd6 cxd6 24. Re8+ Kd7 25. Rh8 h5 26. Rh6 Rxc2 27.
+Na4 Rxa2 28. Nb6+ Kc7 29. Nc4 Rc2 30. Rh7+ Kd8 31. Nxd6 Rc5 32. Nb7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "QiboyXMagnus"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "737"]
+[BlackElo "710"]
+[TimeControl "300"]
+[EndTime "0:46:08 GMT+0000"]
+[Termination "QiboyXMagnus won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. Ng5 d5 6. Bxd5 Be6 7. Bxe6 fxe6 8.
+Nxe6 Qf6 9. Nxc7+ 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "santripas"]
+[Result "0-1"]
+[WhiteElo "698"]
+[BlackElo "620"]
+[TimeControl "300"]
+[EndTime "0:49:18 GMT+0000"]
+[Termination "santripas won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. d4 exd4 6. Bg5 Qe6 7. Bxc6 dxc6 8.
+Nxd4 Bxd4 9. Qxd4 Nf6 10. Nc3 Nxe4 11. Nxe4 O-O 12. Rfe1 Qg6 13. Be7 Re8 14.
+Nf6+ gxf6 15. Bxf6 Rxe1+ 16. Rxe1 Bf5 17. h3 Bxh3 18. Kh2 Qxg2# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "ferqro41"]
+[Result "0-1"]
+[WhiteElo "689"]
+[BlackElo "703"]
+[TimeControl "300"]
+[EndTime "0:51:48 GMT+0000"]
+[Termination "ferqro41 won by checkmate"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. O-O Nc6 5. d4 Nxd4 6. Bf4 Bxf3 7. Nc3 Bxd1 8.
+Raxd1 exf4 9. Rxd4 Nf6 10. e5 Nd7 11. Rxf4 Nxe5 12. Re1 Qd7 13. Bxf7+ Kd8 14.
+Bb3 b6 15. Rd4 g6 16. Rxe5 Bg7 17. Re8+ Rxe8 18. Ba4 Re1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "leonfreyr"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "690"]
+[BlackElo "680"]
+[TimeControl "300"]
+[EndTime "0:52:01 GMT+0000"]
+[Termination "leonfreyr won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Bc5 4. dxc5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "beezy011"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "680"]
+[BlackElo "671"]
+[TimeControl "300"]
+[EndTime "0:55:08 GMT+0000"]
+[Termination "beezy011 won by checkmate"]
+
+1. e4 d5 2. e5 Nc6 3. Nf3 Bg4 4. Be2 Bxf3 5. Bxf3 Nxe5 6. d4 Nxf3+ 7. Qxf3 e6 8.
+O-O g6 9. Nc3 Bg7 10. Re1 c6 11. Bf4 Bxd4 12. Ne2 Bxb2 13. Rab1 Bg7 14. Qb3 b6
+15. Qa4 Ne7 16. Nd4 Bxd4 17. Qxd4 O-O 18. Bh6 Re8 19. Qg7# 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "S0LDELANOCHE"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "670"]
+[BlackElo "680"]
+[TimeControl "300"]
+[EndTime "0:59:52 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. d4 d5 5. e5 Bg4 6. Be2 Bb4+ 7. c3 Ba5 8. O-O
+Nge7 9. Bxf4 O-O 10. a3 Nf5 11. b4 Bb6 12. Nbd2 Nce7 13. Qc2 a5 14. Ng5 Bxe2 15.
+Rf2 Bh5 16. b5 c5 17. e6 cxd4 18. exf7+ Bxf7 19. cxd4 Bxd4 20. Ndf3 Bxf2+ 21.
+Qxf2 h6 22. Ne6 Bxe6 23. Bxh6 Nxh6 24. Qg3 Bg4 25. Ng5 Nef5 26. Ne6 Nxg3 27.
+Nxd8 Ne2+ 28. Kh1 Raxd8 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "DarkchocolateDX"]
+[Result "1/2-1/2"]
+[WhiteElo "680"]
+[BlackElo "700"]
+[TimeControl "300"]
+[EndTime "1:23:15 GMT+0000"]
+[Termination "Game drawn - timeout vs insufficient material"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Qf6 4. O-O Nd4 5. Nxd4 exd4 6. d3 c6 7. Bc4 b5 8. Bb3
+Be7 9. c3 Bc5 10. a4 Ba6 11. Qg4 Ne7 12. Bg5 Qg6 13. h3 O-O 14. cxd4 Bb4 15. Nc3
+Bc8 16. Bxe7 Qxg4 17. hxg4 Bxe7 18. axb5 d5 19. bxc6 Bxg4 20. Bxd5 Rab8 21. Rxa7
+Rxb2 22. Rxe7 h6 23. f3 Be6 24. Rb1 Rxb1+ 25. Nxb1 Bxd5 26. exd5 f6 27. Nc3 Rc8
+28. Nb5 Kf8 29. Re6 Ra8 30. Kh2 Rb8 31. c7 Rc8 32. d6 Kf7 33. Re7+ Kf8 34. Na7
+Rxc7 35. dxc7 Kxe7 36. c8=Q Kd6 37. d5 Kxd5 38. Qc6+ Kd4 39. Qe4+ Kc3 40. Nc6 f5
+41. d4 fxe4 42. d5 Kc4 43. fxe4 Kc5 44. Ne7 Kd6 45. Nf5+ Ke5 46. Nxg7 Kxe4 47.
+Nh5 Kxd5 48. Ng3 Kd4 49. Nf1 Kd3 50. Kh3 Kc2 51. g3 Kc3 52. Kh4 Kd4 53. Kh5 Ke5
+54. Kxh6 Kf5 55. Kh5 Kf6 56. g4 Kg7 57. Ng3 Kf6 58. Ne4+ Kg7 59. Ng5 Kf6 60. Nf3
+Kg7 61. Nh4 Kg8 62. g5 Kg7 63. Nf5+ Kh7 64. g6+ Kg8 65. Nh4 Kg7 66. Nf5+ Kf6 67.
+Kh6 Kxf5 68. g7 Ke4 69. g8=Q Kd3 70. Kg6 Kd4 71. Kf6 Kd3 72. Ke6 Ke4 73. Qg6+
+Kd4 74. Qh5 Kd3 75. Kf5 Kc4 76. Qh4+ Kd3 77. Kf4 Kd4 78. Qf6+ Kd3 79. Qf5+ Kc4
+1/2-1/2
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.05.31"]
+[Round "-"]
+[White "luckyjel"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "688"]
+[BlackElo "672"]
+[TimeControl "300"]
+[EndTime "1:24:32 GMT+0000"]
+[Termination "luckyjel won - game abandoned"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bc4 d6 5. d3 Bg4 6. Nxe5 Nxe5 7. f3 Qg5 8.
+Bxg5 Nxd3+ 9. Qxd3 Be3 10. fxg4 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.01"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "CrushPropeller"]
+[Result "1-0"]
+[WhiteElo "1089"]
+[BlackElo "1093"]
+[TimeControl "1800"]
+[EndTime "23:16:16 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 d6 6. d4 Bg4 7. dxe5 Nxe5 8. Nbd2
+Nxf3+ 9. Nxf3 Nf6 10. Qd3 g6 11. Bg5 Bg7 12. O-O O-O 13. c3 Re8 14. h3 Qd7 15.
+Bxf6 Bxf6 16. hxg4 Qxg4 17. Nh2 Qf5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.01"]
+[Round "-"]
+[White "kranthi1111111"]
+[Black "12312ASDASD12"]
+[Result "0-1"]
+[WhiteElo "999"]
+[BlackElo "1095"]
+[TimeControl "1800"]
+[EndTime "23:21:43 GMT+0000"]
+[Termination "12312ASDASD12 won by resignation"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bc4 Bb4 5. Ng5 d5 6. Bxd5 Nxd5 7. Nxd5 Qxg5 8.
+Nxc7+ Ke7 9. Nxa8 Qxg2 10. Rf1 Bh3 11. Ke2 Bg4+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.01"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "js9987"]
+[Result "0-1"]
+[WhiteElo "1087"]
+[BlackElo "1115"]
+[TimeControl "1800"]
+[EndTime "23:48:05 GMT+0000"]
+[Termination "js9987 won - game abandoned"]
+
+1. e4 f5 2. exf5 Nf6 3. Nf3 d6 4. Bc4 Bxf5 5. d4 Nc6 6. Nc3 Na5 7. Bd3 Be6 8.
+O-O Qd7 9. Bg5 O-O-O 10. Qd2 Nc4 11. Bxc4 Bxc4 12. Rfe1 h6 13. Be3 Nd5 14. b3
+Nxc3 15. Qxc3 Ba6 16. Qa5 g5 17. c4 Kb8 18. d5 e6 19. Bd4 Rg8 20. Re4 g4 21. Ne1
+g3 22. hxg3 e5 23. Be3 h5 24. a4 h4 25. Rxh4 Be7 26. Rh7 Rde8 27. Qc3 Qf5 28.
+Qc2 e4 29. Rh6 Bg5 30. Bxg5 Qxg5 31. Rh4 e3 32. Nf3 exf2+ 33. Qxf2 Qg7 34. Rf4
+Qxa1+ 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.06"]
+[Round "-"]
+[White "Xabi44"]
+[Black "12312ASDASD12"]
+[Result "1-0"]
+[WhiteElo "687"]
+[BlackElo "664"]
+[TimeControl "180"]
+[EndTime "0:29:41 GMT+0000"]
+[Termination "Xabi44 won by resignation"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. d3 Nf6 5. Be3 Kf8 6. Bxc5+ d6 7. Ba3 Nd4 8. g3
+1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.06"]
+[Round "-"]
+[White "12312ASDASD12"]
+[Black "Tuulai0708"]
+[Result "0-1"]
+[WhiteElo "655"]
+[BlackElo "659"]
+[TimeControl "300"]
+[EndTime "0:33:15 GMT+0000"]
+[Termination "Tuulai0708 won by resignation"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe6+ 4. Nge2 Bd7 5. g3 a6 6. Bg2 Nc6 7. d4 Qc4 8.
+Bf4 O-O-O 9. b3 Qb4 10. Bd2 Kb8 11. O-O Nf6 12. a3 Qd6 13. Bf4 e5 14. dxe5 Nxe5
+15. Bxe5 Qxe5 16. Nf4 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.06"]
+[Round "-"]
+[White "chiks02"]
+[Black "12312ASDASD12"]
+[Result "1/2-1/2"]
+[WhiteElo "636"]
+[BlackElo "655"]
+[TimeControl "300"]
+[EndTime "0:39:47 GMT+0000"]
+[Termination "Game drawn by stalemate"]
+
+1. h4 e5 2. h5 d5 3. f3 Nc6 4. g4 Be6 5. a4 Qd6 6. a5 a6 7. c3 O-O-O 8. e3 g6 9.
+Ra3 Bg7 10. Qb3 Nge7 11. Bxa6 Nxa5 12. Rxa5 bxa6 13. Na3 d4 14. Nb5 Bxb3 15.
+Nxd6+ cxd6 16. Rxa6 Kd7 17. cxd4 exd4 18. exd4 Bxd4 19. Ra7+ Ke6 20. Rb7 Bd5 21.
+Ne2 Bxb7 22. Nxd4+ Kd7 23. Nb5 Bxf3 24. Rf1 Bxg4 25. Rxf7 Rde8 26. b3 Bxh5 27.
+Ba3 Ke6 28. Rf2 Rhf8 29. Nxd6 Rxf2 30. Kxf2 Rf8+ 31. Kg3 Be2 32. Nb7 Rf3+ 33.
+Kg4 Rxb3+ 34. Kg5 Rxb7 35. Bxe7 Kxe7 36. Kh6 Kf6 37. d3 g5 38. d4 g4 39. d5 g3
+40. d6 g2 41. d7 Rxd7 1/2-1/2
