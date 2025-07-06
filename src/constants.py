@@ -1,6 +1,6 @@
 from enum import Enum
 
-DATA_FILE_PATH = "data/me/merged_games.pgn"
+DATA_FILE_PATH = "data/12312ASDASD12/merged_games.pgn"
 
 PLAYER_NAME = "12312ASDASD12"
 

@@ -1,12 +1,9 @@
 library(markovchain)
 
-transition_matrix <- as.matrix(read.csv("output/transition_matrix.csv", header = FALSE))
+states <- scan("output/states.txt", what = "", quiet = TRUE)
 
-states <- c("WIN", "LOSS", "DRAW")
-rownames(transition_matrix) <- states
-colnames(transition_matrix) <- states
-
-mc <- new("markovchain", states = states, transitionMatrix = transition_matrix, name = "Player Results")
+mc_fit <- markovchainFit(data = states)
+mc <- mc_fit$estimate
 
 print(mc)
 
@@ -24,4 +21,3 @@ png("output/plots/markov_chain.png", width = 800, height = 600)
 plot(mc, edge.arrow.size = 0.5)
 
 dev.off()
-
